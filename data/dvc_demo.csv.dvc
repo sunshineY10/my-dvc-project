@@ -1,0 +1,5 @@
+outs:
+- md5: 10101a2e40fa65a36dc66bafa995ec3f
+  size: 22
+  hash: md5
+  path: dvc_demo.csv
